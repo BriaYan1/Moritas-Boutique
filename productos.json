@@ -1,0 +1,59 @@
+[
+    {
+        "title": "Bolso Azul Cielo",
+        "price": 10,
+        "image": "/assets/productos/bolsos/bolso-azul-cielo.png",
+        "categorie": "bolsos"
+    },
+
+    {
+        "title": "Bolso Blanco",
+        "price": 10,
+        "image": "/assets/productos/bolsos/bolso-blanco.png",
+        "categorie": "bolsos"
+    },
+
+    {
+        "title": "Bolso Blanco 2",
+        "price": 10,
+        "image": "/assets/productos/bolsos/bolso-blanco2.png",
+        "categorie": "bolsos"
+    },
+
+    {
+        "title": "Bolso Lila",
+        "price": 10,
+        "image": "/assets/productos/bolsos/bolso-lila.png",
+        "categorie": "bolsos"
+    },
+
+    {
+        "title": "Bolso Marron Claro",
+        "price": 10,
+        "image": "/assets/productos/bolsos/bolso-marron-claro.png",
+        "categorie": "bolsos"
+    },
+
+    {
+        "title": "Bolso Rosa",
+        "price": 10,
+        "image": "/assets/productos/bolsos/bolso-rosa.png",
+        "categorie": "bolsos"
+    },
+
+    {
+        "title": "Llavero Florecita",
+        "price": 1,
+        "image": "/assets/productos/llaveros/llaveros-flor.png",
+        "categorie": "llaveros"
+    },
+
+    {
+        "title": "Llavero Florecita",
+        "price": 1,
+        "image": "/assets/productos/llaveros/llaveros-flor2.png",
+        "categorie": "llaveros"
+    }
+
+    
+]
