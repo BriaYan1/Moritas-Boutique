@@ -49,6 +49,27 @@
                 </div>
             </div>
         </div>
+
+        <!--BOTON WHATSAPP-->
+        <button class="btn-whatsapp" aria-haspopup="true" aria-controls="modal-whatsapp">
+            <i class="fa-brands fa-whatsapp"></i>
+        </button>
+        
+        <dialog id="modal-whatsapp">
+            <div class="modal-header">
+                <h1 class="modal-title"><i class="fa-brands fa-whatsapp" style="color: #ffffff;"></i> <span class="titulo-modal">WhatsApp</span></h1>
+                <button type="button" class="button-cerrar" onclick="cerrarModal()"><span class="cerrar">x</span></button>
+            </div>
+            <div class="modal-body">
+                <div class="input-dialogo">
+                    <p class="texto"> Hola, ¿cómo podemos ayudarte?</p>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <a class="redireccionar" href="https://api.whatsapp.com/send?phone=5804247524299&text=Hola, vi tu catálogo y quiero recibir más información."><button type="button" class="btn btn-secondary ">Abrir Chat <img src="/assets/modal/send-plane-fill.svg" class="abrir-chat"></button></a>
+            </div>
+            
+        </dialog>
         
     </main>
 

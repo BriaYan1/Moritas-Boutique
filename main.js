@@ -83,3 +83,14 @@ botones.forEach(boton => {
         
     });
 });
+
+const btnWhatsapp = document.querySelector('.btn-whatsapp');
+const modalWhatsapp = document.querySelector('#modal-whatsapp');
+
+btnWhatsapp.addEventListener('click', () => {
+    modalWhatsapp.show();
+});
+
+function cerrarModal() {
+    modalWhatsapp.close();
+}
