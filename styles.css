@@ -464,22 +464,24 @@ body{
     .header__left{
         display: flex;
         justify-content: space-between;
+        flex-direction: column-reverse;
         align-items: center;
         border-radius: 100%;
-        overflow: hidden;
         padding-top: 1rem;
         padding-bottom: 1rem;
-        padding-left: 1rem;
+        padding-left: 0rem;
+        gap: 10rem;
     }
 
     .header__left-img{
-        max-width: 10rem;
+        max-width: 15rem;
     }
 
     .button__close{
         border: 0;
         background-color: transparent;
-        display: block;
+        display: flex;
+        padding-left: 18rem;
     }
 
     .nav{
